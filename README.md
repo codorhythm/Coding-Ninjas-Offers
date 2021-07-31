@@ -1,6 +1,6 @@
 # Get maximum 42% discount on coding ninjas courses
 <h4>Get maximum 42% discount on coding ninjas courses<h4>
-  
+<h2>coding ninjas COUPON CODE : RCGML<h2>  
 <h3>Referral for coding ninjas<h3>
 https://www.codingninjas.com/?referralCode=RCGML
 
